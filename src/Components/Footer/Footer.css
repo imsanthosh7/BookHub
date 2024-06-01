@@ -1,0 +1,14 @@
+.copyright{
+    padding: 20px 0px;
+    
+}
+.copyright-contain{
+    background-color: var(--purple-color);
+    color: white;
+}
+@media screen and  (max-width:450px)  {
+    .copyright-contain p{
+           font-size: 14px;
+    }
+    
+}
