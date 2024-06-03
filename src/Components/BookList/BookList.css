@@ -35,6 +35,9 @@
     border-bottom: 2px solid var(--purple-color);
     
 }
+.book-item-info-item.title span:hover{
+    color: #5d286f;
+}
 .book-item-info-item.author{
     line-height: 1.4;
     margin-bottom: 4px;
