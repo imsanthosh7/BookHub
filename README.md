@@ -1,5 +1,6 @@
+<div align='center'><img style="width:10%" src='https://github.com/imsanthosh7/BookHub/assets/154437536/b03e23b9-82f3-4897-8ade-ef0a36e6322f'/></div>
 
-# BookHub 📖
+# BookHub 
 
 BookHub is a ReactJS application that allows users to search for books and view details about them, including their cover image, title, author, and publication date. Leveraging the Open Library Search API, BookHub provides a fast, responsive, and dynamic user interface for book enthusiasts to discover and explore books.
 
@@ -24,7 +25,6 @@ git clone https://github.com/your-username/bookhub.git
 4.Start the development server:
 `npm start`
 
-<div align='center'><img style="width:10%" src='https://github.com/imsanthosh7/BookHub/assets/154437536/b03e23b9-82f3-4897-8ade-ef0a36e6322f'/></div>
 <h2>Screenshots of the Project📸</h2>
 <br>
 <h3 align='center'>Home Page</h3>
