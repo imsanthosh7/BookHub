@@ -1,4 +1,4 @@
-<div align='center'><img style="width:10%" src='https://github.com/imsanthosh7/BookHub/assets/154437536/b03e23b9-82f3-4897-8ade-ef0a36e6322f'/></div>
+<div align='center'><img style="width:16%" src='https://github.com/imsanthosh7/BookHub/assets/154437536/b03e23b9-82f3-4897-8ade-ef0a36e6322f'/></div>
 
 # BookHub 
 
