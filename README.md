@@ -24,7 +24,7 @@ git clone https://github.com/your-username/bookhub.git
 4.Start the development server:
 `npm start`
 
-<div align='center'><img style="width:25%" src='https://github.com/imsanthosh7/BookHub/assets/154437536/b03e23b9-82f3-4897-8ade-ef0a36e6322f'/></div>
+<div align='center'><img style="width:10%" src='https://github.com/imsanthosh7/BookHub/assets/154437536/b03e23b9-82f3-4897-8ade-ef0a36e6322f'/></div>
 <h2>Screenshots of the Project</h2>
 <br>
 <h3 align='center'>Home Page</h3>
